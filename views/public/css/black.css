@@ -1,0 +1,83 @@
+body.black{
+	background: #1a1a1a;	
+}
+p{
+	color: #b3b3b3;	
+}
+.featured-post,
+.list-small-meta,
+.post-list-style,
+.sidebar-login input,
+.contact-form form input,
+.contact-form form textarea,
+.search-result form input
+{
+	border-color: transparent;	
+}
+.mega-menu1 > ul.nav-tabs{
+	background: #000 !important;	
+}
+
+.news-bar,
+.sidebar-login input,
+.contact-form form input,
+.contact-form form textarea,
+.search-result form input,
+.subscribe-us
+{
+	background: #000;
+}
+
+.grid-post.md3{
+	background: transparent;	
+}
+
+.news-caro li,
+.post-data > h2,
+.list-small-meta > h2,
+aside .widget-title > h4,
+.list-post-detail h2,
+.post-detail > h2,
+.wid-tab-post > h5,
+.hl-trend-meta > h5,
+.single-post-detail > h1,
+blockquote,
+.author-about > h4,
+.single-related > h3,
+.single-title > h4,
+.comment-detail .reply,
+.comment-detail > h4,
+.error-404 > h1,
+.archive-meta > h4,
+.signature,
+.contact-widget li span,
+.about-us > h3,
+.contact-detail > h3
+{
+	color: #fff;	
+}
+
+
+.single-post-info > span,
+.single-post-info > span a ins,
+.views-comments li,
+.author-about ul li a,
+.author-about > p,
+.contact-form form input,
+.contact-form form textarea,
+.error-404 > span,
+.trend-meta > h4,
+.contact-widget li ins,
+.contact-widget li b,
+.bread-crumb li a,
+.bread-crumb ul li::before
+{
+	color: #d1d1d1;	
+}
+
+aside .widget{
+	border-color: #000;	
+}
+.mega-menu1.tab-base{
+	background: #000;
+}
